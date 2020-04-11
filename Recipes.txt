@@ -3,4 +3,5 @@
 welcome to Manoga kitchen
 
 kheer
-pasth
+pasta
+chicken
